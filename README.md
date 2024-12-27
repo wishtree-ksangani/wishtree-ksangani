@@ -3,5 +3,5 @@
 
 ### 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=light)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=light)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=wishtree-ksangani&show_icons=true&theme=light)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wishtree-ksangani&layout=compact&theme=light)  
