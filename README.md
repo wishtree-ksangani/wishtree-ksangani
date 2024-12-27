@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # Hi there, I'm Kevin Sangani! 👋
 > Passionate about crafting innovative solutions and contributing to impactful projects.
 
